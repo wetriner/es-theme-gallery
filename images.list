@@ -22,6 +22,8 @@ eudora-bigshot.png
 eudora-bigshot-gamelist.png
 eudora-concise.png
 eudora-concise-gamelist.png
+eudora-updated.png
+eudora-updated-gamelist.png
 retroplay-clean-canela.png
 retroplay-clean-canela-gamelist.png
 retroplay-clean-detail-canela.png
@@ -62,10 +64,16 @@ flat.png
 flat-gamelist.png
 flat-dark.png
 flat-dark-gamelist.png
-futura-10px.png
-futura-10px-gamelist.png
-futura-10px-dark.png
-futura-10px-dark-gamelist.png
+switch-light.png
+switch-light-gamelist.png
+futura-V.png
+futura-V-gamelist.png
+futura-VL.png
+futura-VL-gamelist.png
+futura-dark-V.png
+futura-dark-V-gamelist.png
+futura-dark-VL.png
+futura-dark-VL-gamelist.png
 fundamental.png
 fundamental-gamelist.png
 nes-mini.png
@@ -78,3 +86,5 @@ crt-centered.png
 crt-centered-gamelist.png
 ComicBook.png
 ComicBook-gamelist.png
+cygnus.png
+cygnus-gamelist.png
