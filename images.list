@@ -70,10 +70,8 @@ flat-dark.png
 flat-dark-gamelist.png
 minimal.png
 minimal-gamelist.png
-switch-light.png
-switch-light-gamelist.png
-switch-dark.png
-switch-dark-gamelist.png
+switch.png
+switch-gamelist.png
 futura-V.png
 futura-V-gamelist.png
 futura-dark-V.png
@@ -102,8 +100,6 @@ ComicBook.png
 ComicBook-gamelist.png
 ComicBook_4-3.png
 ComicBook_4-3-gamelist.png
-cygnus.png
-cygnus-gamelist.png
 steampunk.png
 steampunk-gamelist.png
 hurstyblue.png
@@ -190,6 +186,8 @@ neogeo_only.png
 neogeo_only-gamelist.png
 boxcity.png
 boxcity-gamelist.png
+vertical_arcade.png
+vertical_arcade-gamelist.png
 scv720.png
 scv720-gamelist.png
 Chicuelo.png
@@ -204,3 +202,5 @@ spaceoddity.png
 spaceoddity-gamelist.png
 swineapple.png
 swineapple-gamelist.png
+pii-wii.png
+pii-wii-gamelist.png
